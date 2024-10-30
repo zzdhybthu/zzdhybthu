@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-realname: ziyichen
-email: c-zy22@mails.tsinghua.edu.cn
+### realname: ziyichen
+
+### email: c-zy22@mails.tsinghua.edu.cn
