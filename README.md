@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 
 - :house: 出生于中华人民共和国 [<img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/cn.svg" width="20" alt="🇨🇳" />](https://hampusborgos.github.io/country-flags/)
 - :telescope: 现就读于清华大学
-- :seedling: 2019.09 至今 清华大学电子工程系，电子信息科学与技术专业，学士在读
+- :seedling: 2022.09 至今 清华大学电子工程系，电子信息科学与技术专业，学士在读
 <!-- - :mortar_board:  -->
 
 + :house: I was born in People's Republic of China [<img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="20" alt="🇨🇳" />](https://www.flaticon.com/).
 + :telescope: I’m currently studying in Tsinghua University.
-+ :seedling: 2019.09 to now, Bachelor student at the Department of Electronic Engineering, Tsinghua University, majoring in Electronic Information Science and Technology.
++ :seedling: 2022.09 to now, Bachelor student at the Department of Electronic Engineering, Tsinghua University, majoring in Electronic Information Science and Technology.
 <!-- + :mortar_board:  -->
 
 ### :bar_chart: Metrics
